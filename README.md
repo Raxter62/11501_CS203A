@@ -3,20 +3,20 @@ Course repository for CS203A Data Structures 115-1, 2026
 
 ## _Course Information_
 
-* **Course:** CS203A Data Structures
-* **Semester:** 115-1
-* **Instructor:** 黃鈺峰 YU FENG HUANG
-* **University:** Yuan Ze University
-* **Department:** Computer Science and Engineering 2 degree
+* **Course:** `CS203A Data Structures`
+* **Semester:** `115-1`
+* **Instructor:** `黃鈺峰 YU FENG HUANG`
+* **University:** `Yuan Ze University`
+* **Department:** `Computer Science and Engineering 2 degree`
 * **Official Course Plan:** [YZU CS203A Course Information](https://portalfun.yzu.edu.tw/cosSelect/Cos_Plan.aspx?y=115&s=1&id=CS203&c=A).
 
 ## _Student Information_
 
-* **Name:** YanHua Chen
-* **Student ID:** 1143302
-* **Department:** Computer Science and Engineering
-* **Year:** sophomore
-* **Personal Page:** [Raxter62]()
+* **Name:** `YanHua Chen`
+* **Student ID:** `1143302`
+* **Department:** `Computer Science and Engineering`
+* **Year:** `sophomore`
+* **Personal Page:** [Raxter62.github.io]()
 
 ## _Repository Description_
 
@@ -33,11 +33,14 @@ The repository will contain materials such as:
 * Course notes and related materials
   
 More contents will be added throughout the semester.
+> [!NOTE]
+> This repository will be continuously updated as the CS203A course progresses.
 
 ## _Assignments_
 
-* [Assignment I](https://github.com/yfhuang/YZUCSE_CS203/blob/main/Assignment/AssignmentI/Assignment_I.pdf)
-* 
+- [x] Assignment I - [Build Your Own GitHub Repository](https://github.com/yfhuang/YZUCSE_CS203/blob/main/Assignment/AssignmentI/Assignment_I.pdf)
+
+- [ ] .
 
 ### _others_ 
 * [Handout](https://github.com/yfhuang/YZUCSE_CS203)
